@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Aldi Hudaifi**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com).<br> 🌱
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com). 🌱<br> 
 
 Saya bertanggung jawab pada kualitas materi HTML dan CSS dengan dibekali [sertifikasi dari Universitas Islam Kalimantan Muhammad Arsyad Al Banjari](https://praktikum.fti.uniska-bjm.ac.id/praktikum/list-sertifikat/).<br>
 
